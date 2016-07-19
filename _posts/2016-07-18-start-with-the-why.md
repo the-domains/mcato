@@ -4,22 +4,29 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "A few weeks ago I watched a TedTalk by Simon Sinek titled ‘How great leaders inspire action’. \_In short, he argues that the big difference that sets apart people like Dr. Martin Luther King Jr and the Wright Brothers, and organizations like Apple, is that they focus on the Why of their work. \_Their process is Why, then How, and then What. \_Further, he asserts, this is diametrically opposed to the approach that most of us take, we first focus on the What. \_More like this; What, then How and then Why."
-datePublished: '2016-07-18T21:01:20.439Z'
-dateModified: '2016-07-18T21:01:15.038Z'
+description: >-
+  A few weeks ago I watched a TedTalk by Simon Sinek titled ‘How great leaders
+  inspire action’. In short, he argues that the big difference that sets apart
+  people like Dr. Martin Luther King Jr and the Wright Brothers, and
+  organizations like Apple, is that they focus on the Why of their work. Their
+  process is Why, then How, and then What. Further, he asserts, this is
+  diametrically opposed to the approach that most of us take, we first focus on
+  the What. More like this; What, then How and then Why.
+datePublished: '2016-07-18T21:07:18.618Z'
+dateModified: '2016-07-18T21:07:05.794Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-18-start-with-the-why.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-18-start-with-the-why.md
 url: start-with-the-why/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd4c3137-7763-486c-9af5-4b39255e1079.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcfcc2aa-3f33-4553-830f-55f10bfc4a66.jpg)
 
-A few weeks ago I watched a TedTalk by Simon Sinek titled '[How great leaders inspire action][0]'.  In short, he argues that the big difference that sets apart people like Dr. Martin Luther King Jr and the Wright Brothers, and organizations like Apple, is that they focus on the Why of their work.  Their process is Why, then How, and then What.  Further, he asserts, this is diametrically opposed to the approach that most of us take, we first focus on the What.  More like this; What, then How and then Why.
+A few weeks ago I watched a TedTalk by Simon Sinek titled '[How great leaders inspire action][0]'. In short, he argues that the big difference that sets apart people like Dr. Martin Luther King Jr and the Wright Brothers, and organizations like Apple, is that they focus on the Why of their work. Their process is Why, then How, and then What. Further, he asserts, this is diametrically opposed to the approach that most of us take, we first focus on the What. More like this; What, then How and then Why.
 
 I was really struck by the simplicity of this assertion, but also by the realization that I don't do this often enough. 
 
