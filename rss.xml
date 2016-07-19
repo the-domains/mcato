@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Cato]]></title>
+        <description><![CDATA[Michael Cato]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 20:11:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Does vision matter?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7209b70-8cd6-4934-ade2-123265538337.jpg">]]></description>
+            <link>undefineddoes-vision-matter/index.html</link>
+            <guid isPermaLink="false">57608e3b-f6fa-43ca-81c3-c70ac13e8c5d</guid>
+            <pubDate>Mon, 18 Jul 2016 20:11:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
