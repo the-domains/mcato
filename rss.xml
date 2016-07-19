@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael Cato]]></title>
         <description><![CDATA[Michael Cato]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mcato/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 20:11:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 20:13:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mcato/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's to an amazing 2016!]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9e7a206-52a7-402f-80ce-8da33b5e21f1.jpg">]]></description>
+            <link>https://thegrid.ai/mcato/heres-to-an-amazing-2016/index.html</link>
+            <guid isPermaLink="false">1268ad62-6a08-4e6c-8d3e-4c8d29c7ae2a</guid>
+            <pubDate>Mon, 18 Jul 2016 20:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does vision matter?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7209b70-8cd6-4934-ade2-123265538337.jpg">]]></description>
-            <link>undefineddoes-vision-matter/index.html</link>
+            <link>https://thegrid.ai/mcato/does-vision-matter/index.html</link>
             <guid isPermaLink="false">57608e3b-f6fa-43ca-81c3-c70ac13e8c5d</guid>
             <pubDate>Mon, 18 Jul 2016 20:11:32 GMT</pubDate>
         </item>
