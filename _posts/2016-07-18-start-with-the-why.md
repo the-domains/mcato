@@ -12,13 +12,14 @@ description: >-
   process is Why, then How, and then What. Further, he asserts, this is
   diametrically opposed to the approach that most of us take, we first focus on
   the What. More like this; What, then How and then Why.
-datePublished: '2016-07-18T21:07:18.618Z'
-dateModified: '2016-07-18T21:07:05.794Z'
+datePublished: '2016-07-20T19:31:05.042Z'
+dateModified: '2016-07-20T19:31:03.165Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-18-start-with-the-why.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: start-with-the-why/index.html
 _type: Article
@@ -41,6 +42,7 @@ Here's another example. This past Monday a team member facilitated a Lessons Lea
 Now I keep thinking, how else could we make use of this idea? Could it improve the project proposal process? Could it enhance the way we communicate to campus...and within our organization? Would our meetings be more meaningful if we explicitly talked about the Why of our agenda topics? Would our purchase requests be easier to process if the Why was clearly stated? Would decisions about professional development, travel, office space, you name it, would all of them make a lot more sense if we built a practice of asking each other to articulate the Why?
 
 What do you think?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/362c12db-0207-4ec6-be89-15b4e13565a5.jpg)
 
 [0]: https://goo.gl/ABt8dH
 [1]: http://www.google.com/url?q=http%3A%2F%2Fiaminfo.vassar.edu%2F&sa=D&sntz=1&usg=AFrqEzcPtzakhuTvLAB4nWfnsWikM6rW-Q
